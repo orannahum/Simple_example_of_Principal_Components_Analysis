@@ -1,0 +1,2 @@
+# simple_example_of_Principal_Components_Analysis
+simple examples of PCA
